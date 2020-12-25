@@ -1,0 +1,24 @@
+[category]
+other = "Kategoria"
+
+[tag]
+other = "Cimke"
+
+[reading_time]
+one = "{{ .Count }} perc az olvasási idő"
+other = "{{ .Count }} perc az olvasási idő"
+
+[page_not_found]
+other = "Az oldal nem található."
+
+[page_does_not_exist]
+other = "Sajnálom, ez az oldal nem létezik."
+
+[head_back]
+other = "Visszatérés innen a <a href=\"{{ . }}\">startoldalra</a>."
+
+[comments]
+other = "Kommentárok"
+
+[send]
+other = "Küldés"
